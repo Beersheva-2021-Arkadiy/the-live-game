@@ -1,4 +1,4 @@
-function getRandomNumber(min:number, max:number): number {
+export function getRandomNumber(min:number, max:number): number {
     if (max < min)[max, min] = [min, max];
     return Math.round(min + Math.random() * (max - min));
 }

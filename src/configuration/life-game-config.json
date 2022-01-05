@@ -1,4 +1,5 @@
 {
     "dimension": 50,
-    "ticInterval": 400 
+    "ticInterval": 400,
+    "surpiseFactor": 1
 }
